@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Marinescu Horia-Andrei
+# Marinescu Horia-Andrei
   
    Student at Faculty of Mathematics and Computer Science, University of Bucharest💻 
 
