@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Last Year Computer Science Student <br>🤝 Full-Stack Engineer - Eviden Romania<br>🌱 I’m currently learning new things and started getting a hang of this coding thing
+🔭 Last Year Computer Science Student <br>🤝 Full-Stack Engineer<br>
 
 
 ## 🌐 Socials:
